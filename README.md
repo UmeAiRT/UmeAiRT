@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" weight="150" src="https://github.com/UmeAiRT/UmeAiRT/raw/refs/heads/main/images/ume.png"  />
+  <img src="https://github.com/UmeAiRT/UmeAiRT/raw/refs/heads/main/images/ume.png" width="150" />
 </div>
 
 ###
