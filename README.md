@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/images/ume.gif"  />
+  <img height="150" weight="150" src="https://github.com/UmeAiRT/UmeAiRT/raw/refs/heads/main/images/ume.png"  />
 </div>
 
 ###
