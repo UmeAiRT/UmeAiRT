@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
   <a href="https://huggingface.co/UmeAiRT" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Hugging Face&logo=huggingface&label=&color=f1c40f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Hugging Face logo" />
+  <img src="https://img.shields.io/static/v1?message=Hugginface&label=&color=f1c40f&labelColor=&style=for-the-badge" height="25" alt="Hugging Face logo" />
 </a>
 <a href="https://civitai.com/user/UmeAiRT" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Civitai&label=&color=2980b9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Civitai logo" />
