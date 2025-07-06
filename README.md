@@ -15,11 +15,12 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
   <a href="https://huggingface.co/UmeAiRT" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Hugginface&label=&color=f1c40f&labelColor=&style=for-the-badge" height="25" alt="Hugging Face logo" />
-</a>
-<a href="https://civitai.com/user/UmeAiRT" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Civitai&label=&color=2980b9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Civitai logo" />
-</a>
+  <img src="https://img.shields.io/static/v1?label=&message=Hugging%20Face&color=D4AC0D&logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face" height="25">
+  </a>
+  <a href="https://civitai.com/user/UmeAiRT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Civitai&label=&color=2980b9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Civitai logo" />
+   </a>
+
 </div>
 
 ###
