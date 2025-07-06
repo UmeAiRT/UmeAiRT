@@ -5,24 +5,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/umeairt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/airt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://ko-fi.com/umeairt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
-  <a href="https://huggingface.co/UmeAiRT" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=Hugging%20Face&color=D4AC0D&logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face" height="25">
-  </a>
-  <a href="https://civitai.com/user/UmeAiRT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Civitai&label=&color=2980b9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Civitai logo" />
-   </a>
-
+  <a href="https://www.instagram.com/umeairt/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a><a href="https://discord.gg/airt" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a><a href="https://ko-fi.com/umeairt" target="_blank"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo" /></a><a href="https://huggingface.co/UmeAiRT" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Hugging%20Face&color=D4AC0D&logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face" height="25"></a><a href="https://civitai.com/user/UmeAiRT" target="_blank"><img src="https://img.shields.io/static/v1?message=Civitai&label=&color=2980b9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Civitai logo" /></a>
 </div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
