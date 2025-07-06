@@ -36,10 +36,6 @@
 
 <h4 align="left">ComfyUI - Auto installer</h4>
 
-###
-
-<br clear="both">
-
 <h4 align="left">ComfyUI - Workflows</h4>
 
 ###
