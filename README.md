@@ -25,9 +25,8 @@
 
 ###
 
-<h4 align="left">ComfyUI - Auto installer</h4>
-
-<h4 align="left">ComfyUI - Workflows</h4>
+<div><b><a href="https://github.com/UmeAiRT/ComfyUI-Auto_installer" style="color: inherit; text-decoration: none;">ComfyUI - Auto installer</a></b> : ComfyUI Download and Management Utility</div>
+<div><b><a href="https://github.com/UmeAiRT/ComfyUI-Workflows" style="color: inherit; text-decoration: none;">ComfyUI - Workflows</a></b> : Workflow library for ComfyUI</div>
 
 ###
 
